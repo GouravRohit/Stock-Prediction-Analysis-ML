@@ -1,6 +1,6 @@
 # Yes Bank - Stock Closing Price Prediction ML
 
-<img width="860" height="394" alt="Image" src="https://github.com/user-attachments/assets/5030ca4d-5173-45ec-b917-b27ea968bef8" />
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/db5cc92a-ffeb-4dd6-8562-61d61be54ff6" />
 
 ## Project Summary
 
